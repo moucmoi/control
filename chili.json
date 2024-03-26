@@ -1,0 +1,5 @@
+{
+    "nom": "Chili Sin Carne",
+    "contient_viande": false,
+    "allergenes": ["soja", "moutarde"]
+}
